@@ -1,0 +1,6 @@
+#include < stdio.h>
+{
+printf " Hello world"
+}
+for (i=0, i++,i=1)
+exit4
